@@ -1,0 +1,3 @@
+[submodule "vue3-electron-ts"]
+	path = vue3-electron-ts
+	url = https://github.com/1379769649/vue3-electron-ts.git
