@@ -1,3 +1,6 @@
 [submodule "vue3-electron-ts"]
 	path = vue3-electron-ts
 	url = https://github.com/1379769649/vue3-electron-ts.git
+[submodule "vue3-admin"]
+	path = vue3-admin
+	url = https://github.com/zhifou0033/vue3-admin.git
