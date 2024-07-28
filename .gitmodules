@@ -4,3 +4,6 @@
 [submodule "vue3-admin"]
 	path = vue3-admin
 	url = https://github.com/zhifou0033/vue3-admin.git
+[submodule "vue3-mobile"]
+	path = vue3-mobile
+	url = https://github.com/zhifou0033/vue3-mobile.git
